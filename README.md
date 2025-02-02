@@ -15,6 +15,9 @@ Click the "Generate CV" button.
 To print the generated CV as a PDF, use the printcv function.
 
 Dependencies:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
+
+
+Demo: https://sivananthini164.github.io/CreateCV/
